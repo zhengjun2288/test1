@@ -13,6 +13,3 @@ R_z_psi=[cos(psi) -sin(psi) 0;
            0 0 1];
        
 R_zyz=R_z_phi*R_y_theta*R_z_psi;
-
-
-
